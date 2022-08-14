@@ -1,3 +1,8 @@
+# Fork Notes
+* Replaced copied code by delegating to `org.springframework.boot.autoconfigure.mongo.embedded.EmbeddedMongoAutoConfiguration`
+* Credits: https://github.com/divyanshshekhar/springboot-embedded-mongo-replset-demo
+
+
 # Spring Boot Embedded Mongo with Replica Set
 
 This project defines a basic rest service that allows users to update records of a Person (name and email). It uses
